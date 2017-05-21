@@ -2,20 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-@font-face {font-family:"BNazanin";src:url("assets\fonts\BNaznnBd.eot?") format("eot"),url("assets\fonts\BNaznnBd.woff") format("woff"),url("assets\fonts\BNaznnBd.ttf") format("truetype"),url("assets\fonts\BNaznnBd.svg#BNazaninBold") format("svg");font-weight:normal;font-style:normal;}
+@font-face {font-family:"B Nazanin";src:url("assets\fonts\BNaznnBd.eot?") format("eot"),url("assets\fonts\BNaznnBd.woff") format("woff"),url("assets\fonts\BNaznnBd.ttf") format("truetype"),url("assets\fonts\BNaznnBd.svg#BNazaninBold") format("svg");font-weight:normal;font-style:normal;}
 @font-face {
     font-family: 'B Titr';
     src: url('http://www.fonts2u.com/download/b-titr-bold.font-face');
 }
-@font-face {
-    font-family: 'B Nazanin';
-    src: url('http://www.fonts2u.com/download/b-nazanin-bold.font-face');
-}
-p,h5{
- font-family: 'BNazanin ';
- text-align:justify;  
- text-justify:inter-word; 
-}
+
 h4{
  font-family: 'B Titr'; 
 }
