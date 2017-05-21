@@ -3,18 +3,18 @@
 
 @import "{{ site.theme }}";
 @font-face {
-    font-family: BTitr;
-    src: url(http://www.fonts2u.com/download/b-titr-bold.font-face);
+    font-family: 'BTitr';
+    src: url('http://www.fonts2u.com/download/b-titr-bold.font-face');
 }
 @font-face {
-    font-family: BNazanin;
-    src: url(http://www.fonts2u.com/download/b-nazanin.font-face);
+    font-family: 'BNazanin';
+    src: url('http://www.fonts2u.com/download/b-nazanin.font-face');
 }
 p,h5{
- font-family: BNazanin;
+ font-family: 'BNazanin';
  text-align:justify;  
  text-justify:inter-word; 
 }
 h4{
- font-family: BTitr; 
+ font-family: 'BTitr'; 
 }
