@@ -1,6 +1,4 @@
 
-<h2>باسمه تعالی</h2>
-
 <h2> When ebay implements a keylogging feature</h2>
 
 <div dir="rtl">
@@ -16,6 +14,6 @@
 <strong>منبع:</strong>
 </h5>
 </div>
-<a>
+<a href="https://slashcrypto.org/2016/06/29/Ebay/">
 https://slashcrypto.org/2016/06/29/Ebay/
 </a>
