@@ -1,12 +1,10 @@
-<div dir="rtl">
+
 
 ### باسمه تعالی
-### محمدحسین ایزدی  92106356
-</div>
-<div>
+### محمدحسین ایزدی  9210635
 
 ## When ebay implements a keylogging feature
-</div>
+
 <div dir="rtl">
 
 ### ترجمه:
