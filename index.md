@@ -1,7 +1,7 @@
 
 <h2> When ebay implements a keylogging feature</h2>
 
-<div dir="rtl">
+<div class="content" dir="rtl">
 <h4><p>محمدحسین ایزدی  92106356</p></h4>
 <h4>ترجمه:</h4>
 <h5>
