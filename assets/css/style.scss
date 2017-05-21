@@ -2,11 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-h5{
-  font-family: "B Nazanin";
-}
-p,h4{
- font-family: "B Titr"; 
+p,h5{
+ font-family: "B Nazanin";
  text-align:justify;  
  text-justify:inter-word; 
+}
+h4{
+ font-family: "B Titr"; 
 }
