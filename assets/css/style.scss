@@ -7,7 +7,11 @@
     font-family: 'B Titr';
     src: url('http://www.fonts2u.com/download/b-titr-bold.font-face');
 }
-
+p,h5{
+ font-family: 'BNazanin',inherit;
+ text-align:justify;  
+ text-justify:inter-word; 
+}
 h4{
  font-family: 'B Titr'; 
 }
