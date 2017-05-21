@@ -1,6 +1,6 @@
-<div dir="rtl">
+
 <h2>باسمه تعالی</h2>
-</div>
+
 <h2> When ebay implements a keylogging feature</h2>
 
 <div dir="rtl">
