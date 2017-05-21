@@ -1,8 +1,7 @@
-
-
-<h4>باسمه تعالی</h4>
+<div dir="rtl">
+<h4 style="text-align: center">باسمه تعالی</h4>
 <h4>محمدحسین ایزدی  92106356</h4>
-
+</div>
 <h2> When ebay implements a keylogging feature</h2>
 
 <div dir="rtl">
